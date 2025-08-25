@@ -1,6 +1,6 @@
 # 📊 SVM Classification (End-to-End ML Project)
 
-## 🔗 App Link: 
+## 🔗 App Link: https://va77a8bbs5ybfz5wqsfeig.streamlit.app/
 
 ## 📌 Project Overview
 
@@ -84,4 +84,7 @@ Evaluation Metrics:
 
 ✅ Confusion Matrix & Classification Report
 
-📸 Screenshots
+📸 Screenshots:
+
+<img width="1127" height="773" alt="svm" src="https://github.com/user-attachments/assets/ae5326ba-83da-4640-9ba1-c2a0d77ca51a" />
+
